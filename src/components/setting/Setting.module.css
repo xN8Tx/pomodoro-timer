@@ -1,0 +1,36 @@
+.settingsWrapper {
+  margin-top: 40px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.primaryButton {
+  width: 105px;
+  height: 35px;
+
+  background-color: var(--primary-color);
+  border-radius: 10px;
+  border: none;
+
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--white-color);
+}
+
+.secondaryButton {
+  background: transparent;
+  border: none;
+
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--secondary-color);
+
+  transition: all ease 0.3s;
+}
+
+.secondaryButton:hover {
+  text-decoration: underline;
+}

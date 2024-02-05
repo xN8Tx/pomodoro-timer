@@ -1,0 +1,27 @@
+.form {
+  display: inline-flex;
+
+  font-size: 64px;
+  font-weight: 900;
+  color: var(--primary-color);
+}
+
+.form > input {
+  max-width: 100px;
+
+  background-color: transparent;
+  border-radius: none;
+  border: none;
+
+  font-size: 64px;
+  font-weight: 900;
+  color: var(--primary-color);
+}
+
+.form > input:focus {
+  outline: none;
+}
+
+.form > input:first-child {
+  text-align: end;
+}
