@@ -3,6 +3,7 @@
 <p align="center">Simple and lightweight pomodoro timer macOS app</p>
 ---
 
+
 ## Create by
 
 - [Tauri](https://tauri.app/)
