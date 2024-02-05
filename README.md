@@ -12,3 +12,5 @@
 ---
 
 ## Download
+
+**[Click](https://github.com/xN8Tx/pomodoro-timer/releases/tag/v1.0.0#:~:text=3-,Pomodoro_Timer.dmg,-2.51%20MB)**
